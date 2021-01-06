@@ -1,0 +1,203 @@
+body{
+    font-family: font-family: 'Bebas Neue', cursive;
+    margin:0;   
+}
+header{
+    
+    background-color:rgb(112, 110, 114);
+    height:60px;
+}
+.menubar{
+    text-align:right;
+    
+}
+.menubar-style{
+    display:inline-block;
+    margin-right:2%;
+    margin-top: 16px;
+    padding:6px;
+    text-decoration:none;
+    border-radius: 3px;
+    width:5%;
+    text-align: center;
+}
+.half-width{
+    width:40%;
+    margin-left:5%;
+    padding:2%;
+    float:left;
+    margin-top:0%;
+    padding-top:0px;  
+}
+.heading-size{
+    font-weight: 700;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 55px; 
+    color: #363958;
+    margin-top: 5%;
+    
+    
+}
+.highlight{
+    color:#F46060;
+}
+.button-color{
+    text-decoration: none;
+    padding:5px;
+    border-radius: 5px;
+    color:white;
+    background-image:linear-gradient(45deg,rgb(75, 125, 233),rgb(2, 68, 112)); 
+    font-weight: 445px; 
+    width:6%;
+    height:auto;
+   
+}
+p{
+     font-family:Roboto;
+     font-size: 16px;
+     font-weight:445px;
+     line-height: 24px;
+     padding:5px;
+     padding-left:0;
+     padding-top:0;
+
+}
+.heading-margin{
+    padding:5%;
+    margin-left:2%;
+    
+}
+.about-margin{
+    margin-left:10%;
+    margin-top:3%;
+    padding:5%;
+}
+.half-width img{
+   height:80%;
+   width:80%;
+}
+.about{
+  
+font-weight: 580;
+font-family: Bebas Neue;
+font-size: 38px;
+line-height: 38px;
+color: #363958;
+margin-bottom: 0;
+
+height: 36px;
+font-weight: 570;
+}
+.media-part{
+    width:100%;
+    display:block;
+    background-color: #E5E5E5;
+    display: inline-block;
+    
+    
+}
+.media-part1{
+    margin-left:6%;
+    margin-bottom: 7%;
+    margin-top: 7%;
+}
+
+.media-part-heading{
+text-align:center;
+font-family: Bebas Neue;
+font-weight: 550;
+font-size: 38px;
+line-height: 38px;
+color: #363958;
+padding-bottom:3%;
+}
+.media{
+    background-color:white;
+    width:26%;
+    height:30%;
+    display:inline;
+    border-radius: 20px;
+    padding:1%;
+    margin-left:2%;
+    margin-bottom: 5%;
+    display:inline-block;
+    background-position: center;
+}
+.media h3{
+    color:#363958;
+    font-family: Roboto;
+    font-size: 24px;
+    line-height:24px;
+    font-weight:700;
+    
+}
+.media img{
+    width:100%;
+}
+
+.inqury-part{
+    height:300px;
+    width:100%;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top:50px;
+    padding-bottom:50px;
+     
+    
+}
+ .work-inqury{
+    width:30%;
+    margin-top:105px;
+    float:left;
+    padding-left:25%; 
+}
+.word-inqury-heading{
+    font-family: Bebas Neue;
+    color:white;
+    font-weight: 550;
+    font-size: 55px;
+    line-height: 55px; 
+    font-style: normal;
+    letter-spacing:0em;
+    text-align: left;  
+}
+.lets-style{
+    width:30%;
+    margin-left: 13%;
+    margin-top:142px;
+    float:left;}
+.button{
+    border:0px ;
+    padding:15px;
+      
+}
+section{
+    height:100%;
+    width:100%;
+}
+.footer-section{
+    text-align: center;
+    padding-top:0;
+    padding-bottom:5%;
+}
+.stay-connected{
+    font-family: Bebas Neue;
+    font-size: 20px;
+    line-height:30px;
+    color:#696871;
+    font-weight: 550;
+    
+}
+.email{
+    text-decoration:none;
+    color:#363958;
+    font-family: Roboto;
+    display:block;
+    font-size: 30px;
+    font-weight:900;
+    padding-bottom:20px;
+}
+
